@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "mongodb": "^3.6.4",
-    "mysql2": "^2.1.0"
+    "mysql2": "^2.2.5"
   }
 }
